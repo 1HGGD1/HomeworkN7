@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{253B8733-D13A-4D05-BB7F-D1318E28DD63}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudMarks/Views/AboutView.axaml">
+    <Files>
+      <File FileName="StudMarks/Views/AboutView.axaml" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudMarks" expanded="True">
+            <Node name="StudMarks" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StudMarks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
